@@ -52,12 +52,12 @@ six==1.16.0
 sklearn==0.0
 sphinx-rtd-theme==0.2.4
 tb-nightly==2.8.0a20211117
-tensorboard==2.5.0
+tensorboard==2.7.0
 tensorboard-data-server==0.6.1
 tensorboard-plugin-wit==1.8.0
-tensorflow-cpu==2.5.0
+tensorflow==2.7.0
 tensorflow-datasets==4.4.0
-tensorflow-estimator==2.5.0
+tensorflow-estimator==2.7.0
 tensorflow-io-gcs-filesystem==0.22.0
 tensorflow-metadata==1.4.0
 termcolor==1.1.0
@@ -68,6 +68,6 @@ tqdm==4.62.3
 typing_extensions==4.0.0
 urllib3==1.26.7
 Werkzeug==0.15.5
-wrapt==1.12.1
+wrapt==1.13.3
 xgboost==1.5.0
 zipp==3.6.0
